@@ -47,6 +47,8 @@ public class PantallaInvoice {
 		
 		//Prueba git pull att:Dilan
 		
+		// hola mundo cruel
+		
 		frmSistemaInvoice = new JFrame();
 		frmSistemaInvoice.setTitle("SISTEMA CECYTOS");
 		frmSistemaInvoice.setBounds(100, 100, 481, 347);
