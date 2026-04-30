@@ -45,7 +45,7 @@ public class PantallaInvoice {
 	 */
 	private void initialize() {
 		frmSistemaInvoice = new JFrame();
-		frmSistemaInvoice.setTitle("SISTEMA INVOICE");
+		frmSistemaInvoice.setTitle("SISTEMA CECYTOS");
 		frmSistemaInvoice.setBounds(100, 100, 481, 347);
 		frmSistemaInvoice.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmSistemaInvoice.getContentPane().setLayout(null);
