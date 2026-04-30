@@ -44,6 +44,9 @@ public class PantallaInvoice {
 	 * Initialize the contents of the frame.
 	 */
 	private void initialize() {
+		
+		//Prueba git pull att:Dilan
+		
 		frmSistemaInvoice = new JFrame();
 		frmSistemaInvoice.setTitle("SISTEMA CECYTOS");
 		frmSistemaInvoice.setBounds(100, 100, 481, 347);
